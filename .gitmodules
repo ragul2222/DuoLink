@@ -1,0 +1,15 @@
+[submodule "ChatBot"]
+	path = ChatBot
+	url = https://github.com/ragul2222/DuoLink-ChatBot.git
+[submodule "Appointment"]
+	path = Appointment
+	url = https://github.com/ragul2222/DuoLink-Appointment.git
+[submodule "Contact_Us"]
+	path = Contact_Us
+	url = https://github.com/ragul2222/DuoLink-Contact_Us.git
+[submodule "Products"]
+	path = Products
+	url = https://github.com/ragul2222/DuoLink-Products.git
+[submodule "services"]
+	path = services
+	url = https://github.com/ragul2222/DuoLink-Services.git
